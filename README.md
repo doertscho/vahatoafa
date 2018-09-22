@@ -53,6 +53,9 @@ Or maybe they just tripped and fell down a gorge.
 Who knows?
 Maybe there are hints that make one explanation or the other seem more likely.
 Maybe there aren't.
+Maybe you will find out what happened at a later point, 
+maybe a rescue mission succeeds to find them.
+Or maybe you will never know, and the people you sent out on that rescue mission get lost as well.
 Maybe you can estimate in advance how risky it is when you send someone out on a mission.
 Maybe you can't. 
 But most likely, you will have to take certain risks sometimes if you want to advance –
