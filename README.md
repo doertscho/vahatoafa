@@ -29,6 +29,8 @@ it might be good to bring a bigger gun (or more clubs or swords, for that matter
 But in reality, even if you were the undisputed, absolutist ruler of your people,
 you would really just know one thing: 
 That the scout unit you sent out never returned.
+Your scout unit is lost (presumably), 
+and with them all the intelligence they gathered on their journey.
 
 Maybe they were killed by animals. 
 If so, how safe would it be to send someone out to search for them?
